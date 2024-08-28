@@ -41,7 +41,7 @@ const App = () => {
           muted
           playsInline
         >
-          <source src="/assets/Freak.mp4" type="video/mp4" />
+          <source src={`${process.env.PUBLIC_URL}/assets/Freak.mp4`} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 bg-black opacity-50"></div>
@@ -50,7 +50,7 @@ const App = () => {
       {/* Larger Logo Header with No Background */}
       <header className="py-6 px-6 fixed top-0 left-0 right-0 z-20 flex justify-center items-center">
         <img 
-          src="/assets/logo.png" 
+          src={`${process.env.PUBLIC_URL}/assets/logo.png`}
           alt="Logo" 
           className="h-24 cursor-pointer" 
           onClick={() => scrollToSection(section1Ref)}
