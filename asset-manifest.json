@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gumball-stagin/static/css/main.1be32857.css",
+    "main.js": "/gumball-stagin/static/js/main.251df783.js",
+    "static/js/453.1ccfd5b1.chunk.js": "/gumball-stagin/static/js/453.1ccfd5b1.chunk.js",
+    "index.html": "/gumball-stagin/index.html",
+    "main.1be32857.css.map": "/gumball-stagin/static/css/main.1be32857.css.map",
+    "main.251df783.js.map": "/gumball-stagin/static/js/main.251df783.js.map",
+    "453.1ccfd5b1.chunk.js.map": "/gumball-stagin/static/js/453.1ccfd5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be32857.css",
+    "static/js/main.251df783.js"
+  ]
+}
