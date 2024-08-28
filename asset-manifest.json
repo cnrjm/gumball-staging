@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gumball-staging/static/css/main.1be32857.css",
-    "main.js": "/gumball-staging/static/js/main.f1382b9c.js",
+    "main.js": "/gumball-staging/static/js/main.7c122131.js",
     "static/js/453.1ccfd5b1.chunk.js": "/gumball-staging/static/js/453.1ccfd5b1.chunk.js",
     "index.html": "/gumball-staging/index.html",
     "main.1be32857.css.map": "/gumball-staging/static/css/main.1be32857.css.map",
-    "main.f1382b9c.js.map": "/gumball-staging/static/js/main.f1382b9c.js.map",
+    "main.7c122131.js.map": "/gumball-staging/static/js/main.7c122131.js.map",
     "453.1ccfd5b1.chunk.js.map": "/gumball-staging/static/js/453.1ccfd5b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1be32857.css",
-    "static/js/main.f1382b9c.js"
+    "static/js/main.7c122131.js"
   ]
 }
